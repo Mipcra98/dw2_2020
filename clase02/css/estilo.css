@@ -1,0 +1,161 @@
+<<<<<<< HEAD
+body {
+  background-color: #B4B3F2;
+  width: 90%;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+}
+header{
+background-color: #B4B3F1;
+width: 90%;
+height: 160px;
+background: linear-gradient(to bottom,#706EF8,#C4C4F6);
+}
+header img {
+    height: 100px;
+    margin-left: 100px;
+    float: left;
+    padding: 30px;
+}
+header h2{
+  padding: 65px;
+}
+nav{
+  background-color: #2F2E87;
+  width: 90%;
+  height: 64px;
+  align-items: center;
+}
+nav ul {
+  padding: 10px;
+}
+nav ul li {
+	float: left;
+	list-style-type: none;
+  background-color: #706EF8;
+  border: 1px solid #000;
+  margin-left: 10px;
+  padding: 5px 15px;
+  margin-top: 6px;
+  border-radius: 10px;
+}
+
+nav ul li a {
+  color: #000;
+
+ }
+
+main{
+  background-color: #C4C4F6;
+  width: 90%;
+}
+
+main p
+{
+padding: 5px 20px;
+text-align: justify;
+}
+main h3{
+  padding: 10px;
+  margin-left: 30px;
+  left: auto;
+}
+
+footer{
+  background-color: #ccc;
+  width: 90%;
+  height: 90px;
+  background: linear-gradient(to bottom, #C4C4F6 ,#706EF8);
+}
+footer pre {
+	text-align: center;
+	padding-top: 50px;
+	font-weight: bolder;
+}
+
+header, main, footer {
+margin-top: -20px;
+
+
+}
+=======
+body {
+  background-color: #B4B3F1;
+  width: 90%;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+}
+header{
+background-color: #B4B3F1;
+width: 90%;
+height: 160px;
+background: linear-gradient(to bottom,#706EF8,#C4C4F6);
+}
+header img {
+    height: 100px;
+    margin-left: 100px;
+    float: left;
+    padding: 30px;
+}
+header h2{
+  padding: 65px;
+}
+nav{
+  background-color: #2F2E87;
+  width: 90%;
+  height: 64px;
+  align-items: center;
+}
+nav ul {
+  padding: 10px;
+}
+nav ul li {
+	float: left;
+	list-style-type: none;
+  background-color: #706EF8;
+  border: 1px solid #000;
+  margin-left: 10px;
+  padding: 5px 15px;
+  margin-top: 6px;
+  border-radius: 10px;
+}
+
+nav ul li a {
+  color: #000;
+
+ }
+
+main{
+  background-color: #C4C4F6;
+  width: 90%;
+}
+
+main p
+{
+padding: 5px 20px;
+text-align: justify;
+}
+main h3{
+  padding: 10px;
+  margin-left: 30px;
+  left: auto;
+}
+
+footer{
+  background-color: #ccc;
+  width: 90%;
+  height: 90px;
+  background: linear-gradient(to bottom, #C4C4F6 ,#706EF8);
+}
+footer pre {
+	text-align: center;
+	padding-top: 50px;
+	font-weight: bolder;
+}
+
+header, main, footer {
+margin-top: -20px;
+
+
+}
+>>>>>>> 50608cdbb5303ffbe3cbedd04f3a2b0464a6528f
