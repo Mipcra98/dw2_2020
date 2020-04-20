@@ -80,3 +80,5 @@ function GuardarEnArchivo() { //Función que realiza la transferencia de los dat
   localStorage.setItem("Archivo",JSON.stringify(lista));
   console.log("Guardando en Archivo");
 }
+
+//Reparación?
