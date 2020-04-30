@@ -1,5 +1,5 @@
-document.getElementsByTagName('body')[0].onload=cargarDatos();
 var lista=[]; //Creamos el contenedor de todos los Datos
+document.getElementsByTagName('body')[0].onload=cargarDatos();
 
 function cargarDatos() {
   // console.log(JSON.parse(localStorage.Archivo));
@@ -10,7 +10,6 @@ function cargarDatos() {
 
 document.getElementById("Enviar").onclick=GuardarDatos;//Cada vez que se haga clinck en el botón enviar se ejecutará esta función
 function GuardarDatos() {
-  cargarDatos();
   if(document.getElementById("ID").value==""){ //comprobamos el id, para saber si es momento de Edición o Almacenamiendo directo
     console.log("Añadiendo datos al sistema");
     lista.push([document.getElementById("nombre").value,document.getElementById("apellido").value,document.getElementById("telefono").value]);
