@@ -23,7 +23,7 @@ if($_POST){
     <script src="libs/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
   </head>
   <body class="bg-secondary">
-    <div class="container bg-dark text-white">
+    <div class="container bg-dark text-white rounded-lg">
       <h3 style="margin-top:2rem">Ingrese su perfil</h3>
       <form action="formulario.php" method="post">
         <div class="form-group">

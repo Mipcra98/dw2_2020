@@ -12,7 +12,7 @@ session_destroy();
      <script src="libs/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
    </head>
    <body class="bg-secondary">
-     <div class="container bg-dark text-white">
+     <div class="container bg-dark text-white rounded-lg">
        <h1 style="margin-top:2rem">Sesión Cerrada</h1>
        <h3>Lista de personas registradas durante la sesión</h3>
        <ol>
